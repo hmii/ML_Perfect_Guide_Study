@@ -4,9 +4,9 @@
 
 ### 목차
 
-2. 전처리
-3. 평가 
-4. 분
+2. 전처리 : 교차검증, 인코딩, 스케일링
+3. 평가 : 오차행렬, 정확도, 정밀도, F1 Score, ROC-AUC
+4. 분류 : 결정트리, 보팅, 배깅, 랜덤포레스트, GBM, XGBoost, LightGBM, Stacking, Baysian Optimization, feature selection
 5. 회귀
 6. 차원축소
 7. 군집화
